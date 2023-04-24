@@ -1,3 +1,5 @@
+#En relisant l'énnoncé je viens de voir qu'il fallais push à chaques étapes..
+
 ## Question 1
 
 Voici les commandes git qui sont utiles pour créer votre repo et utiliser correctement celui-ci
